@@ -1,0 +1,12 @@
+﻿<UserControl  x:Class="BitcoinTrayTicker.UserControls.Donate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Height="300" Width="300">
+    <Grid>
+        <StackPanel>          
+            <Image Source="pack://application:,,,/Resources/qr.png" Width="250" MouseUp="Image_MouseUp"></Image>
+            <Button Content="COPY BITCOIN ADDRESS TO CLIPBOARD" Width="250" Margin="0,5,0,0" Click="Button_Click"></Button>          
+        </StackPanel>
+        
+    </Grid>
+</UserControl>
