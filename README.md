@@ -18,4 +18,4 @@ WPF NotifyIcon -> http://www.hardcodet.net/wpf-notifyicon
 
 Licence:
 
-MIT License (MIT) -> https://github.com/Shizora/Bitcoin-Tray-Ticker/blob/master/LICENSE
+MIT License (MIT) -> https://github.com/Shizora/Bitcoin-Tray-Ticker/blob/master/LICENSE.md
