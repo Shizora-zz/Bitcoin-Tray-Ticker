@@ -8,6 +8,12 @@ User can also change displayed currency and set a percantage for getting a warni
 
 ------------------------------------------------------------------------------------------
 
+Requirements:
+
+.NET 4.5
+
+------------------------------------------------------------------------------------------
+
 3rd party frameworks:
 
 Blockchain API -> https://github.com/blockchain/api-v1-client-csharp
