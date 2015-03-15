@@ -26,11 +26,7 @@ Licence:
 
 MIT License (MIT) -> https://github.com/Shizora/Bitcoin-Tray-Ticker/blob/master/LICENSE.md
 
-
-
-
-
-
+------------------------------------------------------------------------------------------
 
 If you want you can donate BTC to 1D88wCn7GekvQpvQSHW4xiHyDUjhoTvgUj
 Thanks :)
