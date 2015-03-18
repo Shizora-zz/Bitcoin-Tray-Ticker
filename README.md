@@ -30,3 +30,7 @@ MIT License (MIT) -> https://github.com/Shizora/Bitcoin-Tray-Ticker/blob/master/
 
 If you want you can donate BTC to 1D88wCn7GekvQpvQSHW4xiHyDUjhoTvgUj
 Thanks :)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Shizora/bitcoin-tray-ticker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
